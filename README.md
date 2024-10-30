@@ -1,3 +1,7 @@
+[![es](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/pitekkate/Editor-Metadados-em-Video/edit/master/README.md)
+[![ei](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/pitekkate/Editor-Metadados-em-Video/edit/master/README.id.md)
+
+
 Para rodar o código fornecido com sucesso, você precisará dos seguintes requisitos:
 
 1. Instalar Python
