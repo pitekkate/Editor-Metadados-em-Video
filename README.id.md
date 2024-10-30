@@ -1,3 +1,7 @@
+[![es](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/pitekkate/Editor-Metadados-em-Video/edit/master/README.md)
+[![id](https://img.shields.io/badge/lang-id-yellow.svg)](https://github.com/pitekkate/Editor-Metadados-em-Video/edit/master/README.id.md)
+
+
 Agar berhasil menjalankan kode yang disediakan, Anda memerlukan persyaratan berikut:
 
 * Instal Python Python 3.x: Pastikan Anda telah menginstal Python 3.x di sistem Anda.
